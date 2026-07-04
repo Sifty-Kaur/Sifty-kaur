@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi 👋 I'm Sifty Kaur Gandhi
 
-<!--
-**Sifty-Kaur/Sifty-kaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student
 
-Here are some ideas to get you started:
+💻 AI Automation Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Building AI-powered workflows using n8n & OpenAI
+
+Tech Stack :
+Python
+n8n
+TypeScript
+JavaScript
+React
+Next.js
+Node.js
+MongoDB
+Git
+GitHub
+Currently Working On
+
+🚀 AI Automation Architect
+
+Learning :
+RAG
+MCP
+AI Agents
+LangChain
+
+Connect with Me On:-
+
+LinkedIn - https://www.linkedin.com/in/sifty-kaur-51542730a?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+Email - Siftykaur12@gmail.com
